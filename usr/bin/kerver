@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#i znowu zmiana
 echo -e "Check kernel version:\n"
 cat /proc/version && uname -a
 echo -e "\n"
